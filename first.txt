@@ -1,0 +1,5 @@
+git learning 
+21/07/20202
+commands"git log" ye batayenga kisne kab kaha change kiya files me
+git diff "ye bata hai pahle file me kya change kiya aur abb file kaisi hai"staging area ko working area se compire karta hai.
+
